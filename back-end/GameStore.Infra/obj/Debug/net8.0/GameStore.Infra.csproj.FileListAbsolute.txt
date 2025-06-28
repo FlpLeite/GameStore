@@ -1,0 +1,13 @@
+C:\Users\felip\WebstormProjects\GameStore\back-end\GameStore.Infra\bin\Debug\net8.0\GameStore.Infra.deps.json
+C:\Users\felip\WebstormProjects\GameStore\back-end\GameStore.Infra\bin\Debug\net8.0\GameStore.Infra.dll
+C:\Users\felip\WebstormProjects\GameStore\back-end\GameStore.Infra\bin\Debug\net8.0\GameStore.Infra.pdb
+C:\Users\felip\WebstormProjects\GameStore\back-end\GameStore.Infra\obj\Debug\net8.0\GameStore.Infra.csproj.AssemblyReference.cache
+C:\Users\felip\WebstormProjects\GameStore\back-end\GameStore.Infra\obj\Debug\net8.0\GameStore.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\WebstormProjects\GameStore\back-end\GameStore.Infra\obj\Debug\net8.0\GameStore.Infra.AssemblyInfoInputs.cache
+C:\Users\felip\WebstormProjects\GameStore\back-end\GameStore.Infra\obj\Debug\net8.0\GameStore.Infra.AssemblyInfo.cs
+C:\Users\felip\WebstormProjects\GameStore\back-end\GameStore.Infra\obj\Debug\net8.0\GameStore.Infra.csproj.CoreCompileInputs.cache
+C:\Users\felip\WebstormProjects\GameStore\back-end\GameStore.Infra\obj\Debug\net8.0\GameStore.Infra.sourcelink.json
+C:\Users\felip\WebstormProjects\GameStore\back-end\GameStore.Infra\obj\Debug\net8.0\GameStore.Infra.dll
+C:\Users\felip\WebstormProjects\GameStore\back-end\GameStore.Infra\obj\Debug\net8.0\refint\GameStore.Infra.dll
+C:\Users\felip\WebstormProjects\GameStore\back-end\GameStore.Infra\obj\Debug\net8.0\GameStore.Infra.pdb
+C:\Users\felip\WebstormProjects\GameStore\back-end\GameStore.Infra\obj\Debug\net8.0\ref\GameStore.Infra.dll

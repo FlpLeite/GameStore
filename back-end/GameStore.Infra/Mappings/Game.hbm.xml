@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="GameStore.Core"
+                   namespace="GameStore.Core.Entities">
+	<class name="Game" table="jogos">
+		<id name="Id" column="id">
+			<generator class="identity"/>
+		</id>
+		<property name="Titulo" column="titulo" not-null="true" />
+		<property name="Plataforma" column="plataforma" not-null="true" />
+		<property name="Categoria" column="categoria" not-null="true" />
+		<property name="AnoLancamento" column="ano_lancamento" />
+		<property name="PrecoVenda" column="preco_venda" />
+		<property name="PrecoAluguel" column="preco_aluguel" />
+		<property name="QuantidadeEstoque" column="quantidade_estoque" />
+		<property name="CapaUrl" column="capa_url" />
+	</class>
+</hibernate-mapping>
